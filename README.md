@@ -26,4 +26,8 @@ Voici la liste des différents fichiers proposés dans MATHIX :
 		<td><b>PRIME.PAS</b></td> 
 		<td>Cette commande permet de retourner des nombres premiers.</td>
 	</tr>
+	<tr>
+		<td><b>TABLE.PAS</b></td>
+		<td>Cette commande permet d'afficher la table de multiplication d'un nombre.</td>
+	</tr>
 </table>
