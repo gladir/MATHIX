@@ -11,7 +11,7 @@ Voici la liste des différents fichiers proposés dans MATHIX :
 		<th>Description</th>	
 	</tr>
 	<tr>
-		<td><b>FACTORF.PAS</b></td>
+		<td><b>FACTOR.PAS</b></td>
 		<td>Cette commande permet de calculer le facteur d'un nombre.</td>
 	</tr>
    <tr>
