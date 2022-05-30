@@ -23,8 +23,8 @@ End;
 BEGIN
  If(ParamStr(1)='/?')or(ParamStr(1)='--help')or(ParamStr(1)='-h')or
    (ParamStr(1)='/h')or(ParamStr(1)='/H')Then Begin
-  WriteLn('PI : Cette commande permet d''afficher la table d''un ',
-                'nombre');
+  WriteLn('PI : Cette commande permet d''afficher la table de ',
+                'multiplication d''un nombre');
   WriteLn;
   WriteLn('Syntaxe : TABLE [nombre]');
  End
