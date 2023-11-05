@@ -18,6 +18,10 @@ Voici la liste des différents fichiers proposés dans MATHIX :
 		<td><b>FACTOR.PAS</b></td>
 		<td>Cette commande permet de calculer le facteur d'un nombre.</td>
 	</tr>
+	 <tr>
+               <td><b>MATHQUIZ.PAS</b></td>
+               <td>Cette commande permet de passer un QUIZ de mathématique.</td>
+      </tr>  	
        <tr>
 		<td><b>NUMBER.PAS</b></td>
 		<td>Cette commande permet d'afficher un nombre en texte.</td>
