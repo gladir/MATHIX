@@ -74,6 +74,7 @@ BEGIN
   WriteLn('MATRIX : Cette commande permet de calculer des matrices.');
   WriteLn;
   WriteLn('Syntaxe : MATRIX SUM data1.csv data2.csv');
+  WriteLn('          MATRIX MUL data1.csv data2.csv');
   WriteLn;
   WriteLn(' data1.csv   Ce paramŠtre permet d''indiquer le fichier ',
                        'contenant les donn‚es');
