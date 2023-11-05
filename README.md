@@ -22,6 +22,10 @@ Voici la liste des différents fichiers proposés dans MATHIX :
 		<td><b>FACTOR.PAS</b></td>
 		<td>Cette commande permet de calculer le facteur d'un nombre.</td>
 	</tr>
+	<tr>
+		<td><b>FINDNUMB.PAS</b></td>
+		<td>Cette commande permet de rechercher des nombres écrit mentionné dans un texte.</td>
+	</tr>
 	 <tr>
                <td><b>MATHQUIZ.PAS</b></td>
                <td>Cette commande permet de passer un QUIZ de mathématique.</td>
