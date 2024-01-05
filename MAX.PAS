@@ -27,7 +27,7 @@ BEGIN
  If(ParamStr(1)='/?')or(ParamStr(1)='--help')or(ParamStr(1)='-h')or
    (ParamStr(1)='/h')or(ParamStr(1)='/H')Then Begin
   WriteLn('MAX : Cette commande permet de retourner la valeur maximal ',
-                 'd''un groupe de valeur.');
+                 'd''un groupe de valeurs.');
   WriteLn;
   WriteLn('Syntaxe : MAX valeur1 valeur2 valeur3 ...');
   WriteLn('          MAX fichier1.csv fichier2.csv fichier3.csv ...');
