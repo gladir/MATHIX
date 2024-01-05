@@ -34,6 +34,10 @@ Voici la liste des différents fichiers proposés dans MATHIX :
 		<td><b>MATRIX.PAS</b></td>
 		<td>Cette commande permet de calculer des matrices.</td>
 	</tr>
+	<tr>
+		<td><b>MAX.PAS</b></td>
+		<td>Cette commande permet de retourner la valeur maximal d'un groupe de valeurs.</td>
+	</tr>
        <tr>
 		<td><b>NUMBER.PAS</b></td>
 		<td>Cette commande permet d'afficher un nombre en texte.</td>
